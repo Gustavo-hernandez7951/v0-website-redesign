@@ -16,7 +16,7 @@ const contactInfo = [
   {
     icon: Phone,
     label: "Teléfono",
-    value: "+52 (81) 1234-5678",
+    value: "+52 8134052191",
   },
   {
     icon: Mail,
@@ -160,7 +160,7 @@ export function Contact() {
                       <Input
                         id="phone"
                         type="tel"
-                        placeholder="+52 (81) 1234-5678"
+                        placeholder="+52 8134052191"
                         className="rounded-lg"
                       />
                     </div>
